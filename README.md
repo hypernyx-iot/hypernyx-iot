@@ -1,3 +1,4 @@
-### Hi there 👋
+<h1 style="text-align: center;">Hypernyx IoT</h1>
 
-See our [Privacy Policy](./privacy-policy.html)
+- [Privacy Policy](./privacy-policy.md)  
+- [Terms & Conditions](./terms-and-conditions.md)
