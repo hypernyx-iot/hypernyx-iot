@@ -1,16 +1,16 @@
 <h1 style="text-align: center;">Terms & Conditions</h1>
 
-**Last updated December 19, 2023**
+**Last updated December 27, 2023**
 
 <h2>AGREEMENT TO OUR LEGAL TERMS</h2>
 
-We are Hypernyx IoT (**"Company"**, **"we"**, **"us"**, **"our"**), a company registered in Iran at Street, City, Province ZipCode.
+We are Hyrcania Technologies (**"Company"**, **"we"**, **"us"**, **"our"**), a company registered in Iran.
 
-We operate the mobile application Hypernyx App (the **"App"**), as well as any other related products and services that refer or link to these legal terms (the **"Legal Terms"**) (collectively, the **"Services"**).
+We operate the mobile application Hypernyx (the **"App"**), as well as any other related products and services that refer or link to these legal terms (the **"Legal Terms"**) (collectively, the **"Services"**).
 
-You can contact us by phone at 1-800-555-5555, email at <contact@hypernyx.com>, or by mail to Street, City, Province ZipCode, Iran.
+You can contact us by email at <contact@hypernyx.com>.
 
-These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity (**"you"**), and Hypernyx IoT, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity (**"you"**), and Hyrcania Technologies, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms at any time and for any reason. We will alert you about any changes by updating the "Last updated" date of these Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted.
 
@@ -32,16 +32,14 @@ We recommend that you print a copy of these Legal Terms for your records.
 [10. PRIVACY POLICY](#item-10)  
 [11. TERM AND TERMINATION](#item-11)  
 [12. MODIFICATIONS AND INTERRUPTIONS](#item-12)  
-[13. GOVERNING LAW](#item-13)  
-[14. DISPUTE RESOLUTION](#item-14)  
-[15. CORRECTIONS](#item-15)  
-[16. DISCLAIMER](#item-16)  
-[17. LIMITATIONS OF LIABILITY](#item-17)  
-[18. INDEMNIFICATION](#item-18)  
-[19. USER DATA](#item-19)  
-[20. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES](#item-20)  
-[21. MISCELLANEOUS](#item-21)  
-[22. CONTACT US](#item-22)  
+[13. CORRECTIONS](#item-13)  
+[14. DISCLAIMER](#item-14)  
+[15. LIMITATIONS OF LIABILITY](#item-15)  
+[16. INDEMNIFICATION](#item-16)  
+[17. USER DATA](#item-17)  
+[18. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES](#item-18)  
+[19. MISCELLANEOUS](#item-19)  
+[20. CONTACT US](#item-20)  
 
 <h2 id="item-1">1. OUR SERVICES</h2>
 
@@ -172,9 +170,9 @@ The following terms apply when you use the App obtained from either the Apple St
 
 We reserve the right, but not the obligation, to: (1) monitor the Services for violations of these Legal Terms; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Legal Terms, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the Services or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Services in a manner designed to protect our rights and property and to facilitate the proper functioning of the Services.
 
-10. PRIVACY POLICY
+<h2 id="item-10">10. PRIVACY POLICY</h2>
 
-We care about data privacy and security. Please review our Privacy Policy: <http://www.hypernyx.com/privacy-policy>. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in Iran. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in Iran, then through your continued use of the Services, you are transferring your data to Iran, and you expressly consent to have your data transferred to and processed in Iran.
+We care about data privacy and security. Please review our Privacy Policy: <http://blog.hypernyx.com/privacy-policy>. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms.
 
 <h2 id="item-11">11. TERM AND TERMINATION</h2>
 
@@ -188,50 +186,34 @@ We reserve the right to change, modify, or remove the contents of the Services a
 
 We cannot guarantee the Services will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Services, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Services at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Services during any downtime or discontinuance of the Services. Nothing in these Legal Terms will be construed to obligate us to maintain and support the Services or to supply any corrections, updates, or releases in connection therewith.
 
-<h2 id="item-13">13. GOVERNING LAW</h2>
-
-These Legal Terms shall be governed by and defined following the laws of Iran. Hypernyx IoT and yourself irrevocably consent that the courts of Iran shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these Legal Terms.
-
-<h2 id="item-14">14. DISPUTE RESOLUTION</h2>
-
-You agree to irrevocably submit all disputes related to these Legal Terms or the legal relationship established by these Legal Terms to the jurisdiction of the Iran courts. Hypernyx IoT shall also maintain the right to bring proceedings as to the substance of the matter in the courts of the country where you reside or, if these Legal Terms are entered into in the course of your trade or profession, the state of your principal place of business.
-
-<h2 id="item-15">15. CORRECTIONS</h2>
+<h2 id="item-13">13. CORRECTIONS</h2>
 
 There may be information on the Services that contains typographical errors, inaccuracies, or omissions, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Services at any time, without prior notice.
 
-<h2 id="item-16">16. DISCLAIMER</h2>
+<h2 id="item-14">14. DISCLAIMER</h2>
 
 THE SERVICES ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICES AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SERVICES' CONTENT OR THE CONTENT OF ANY WEBSITES OR MOBILE APPLICATIONS LINKED TO THE SERVICES AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICES, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICES, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICES BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICES. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICES, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
 
-<h2 id="item-17">17. LIMITATIONS OF LIABILITY</h2>
+<h2 id="item-15">15. LIMITATIONS OF LIABILITY</h2>
 
 IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-<h2 id="item-18">18. INDEMNIFICATION</h2>
+<h2 id="item-16">16. INDEMNIFICATION</h2>
 
 You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) use of the Services; (2) breach of these Legal Terms; (3) any breach of your representations and warranties set forth in these Legal Terms; (4) your violation of the rights of a third party, including but not limited to intellectual property rights; or (5) any overt harmful act toward any other user of the Services with whom you connected via the Services. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
 
-<h2 id="item-19">19. USER DATA</h2>
+<h2 id="item-17">17. USER DATA</h2>
 
 We will maintain certain data that you transmit to the Services for the purpose of managing the performance of the Services, as well as data relating to your use of the Services. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Services. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
 
-20. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
+<h2 id="item-18">18. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES</h2>
 
 Visiting the Services, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Services, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SERVICES. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
 
-<h2 id="item-21">21. MISCELLANEOUS</h2>
+<h2 id="item-19">19. MISCELLANEOUS</h2>
 
 These Legal Terms and any policies or operating rules posted by us on the Services or in respect to the Services constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Legal Terms shall not operate as a waiver of such right or provision. These Legal Terms operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Legal Terms is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Legal Terms and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Legal Terms or use of the Services. You agree that these Legal Terms will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Legal Terms and the lack of signing by the parties hereto to execute these Legal Terms.
 
-<h2 id="item-22">22. CONTACT US</h2>
+<h2 id="item-20">20. CONTACT US</h2>
 
-In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
-
-**Hypernyx IoT**  
-**Street**  
-**City, Province 12345**  
-**Iran**  
-**Phone: 1-800-555-5555**  
-**Fax: 1-800-555-5555**  
-**<contact@hypernyx.com>**  
+In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at <contact@hypernyx.com>.

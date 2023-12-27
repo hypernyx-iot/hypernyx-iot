@@ -1,8 +1,8 @@
 <h1 style="text-align: center;">Privacy Policy</h1>
 
-**Last updated December 14, 2023**
+**Last updated December 27, 2023**
 
-This privacy notice for Hypernyx IoT (**"we"**, **"us"**, or **"our"**), describes how and why we might collect, store, use, and/or share (**"process"**) your information when you use our services (**"Services"**), such as when you:
+This privacy notice for Hyrcania Technologies (**"we"**, **"us"**, or **"our"**), describes how and why we might collect, store, use, and/or share (**"process"**) your information when you use our services (**"Services"**), such as when you:
 
 - Download and use our mobile application (Hypernyx), or any other application of ours that links to this privacy notice
 
@@ -155,13 +155,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 <h2 id="item-9"> 9. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</h2>
 
-If you have questions or comments about this notice, you may email us at <privacy@hypernyx.com> or contact us by post at:
-
-Hypernyx IoT  
-Alley  
-Street  
-City, Province, ZipCode  
-Country  
+If you have questions or comments about this notice, you may email us at <privacy@hypernyx.com>.
 
 <h2 id="item-10"> 10. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?</h2>
 
