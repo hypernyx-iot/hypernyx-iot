@@ -4,7 +4,7 @@
 
 <h2>AGREEMENT TO OUR LEGAL TERMS</h2>
 
-We are Hyrcania Technologies (**"Company"**, **"we"**, **"us"**, **"our"**), a company registered in Iran.
+We are Hyrcania Technologies (**"Company"**, **"we"**, **"us"**, **"our"**).
 
 We operate the mobile application Hypernyx (the **"App"**), as well as any other related products and services that refer or link to these legal terms (the **"Legal Terms"**) (collectively, the **"Services"**).
 
