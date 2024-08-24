@@ -25,3 +25,13 @@ Within the Profile Settings, find and tap on the **Delete Profile** button.
 A confirmation pop-up will appear. Please read the information carefully and confirm your decision by tapping **Confirm**.
 
 <img src="./img/delete-step-4.png" width="320px" heigth="600px" alt="Confirm" style="border: 1px solid;">
+
+Note that Deleting your profile will permanently remove **all your personal data**, including your:
+
+- **name**
+- **phone number**
+- **email address**
+- **date of birth**
+- **added devices**
+
+Please note that we also collect some **diagnostic data** to improve our services. This data is not linked to your user profile and will be retained even if you delete your account.
