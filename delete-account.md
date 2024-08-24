@@ -26,7 +26,7 @@ A confirmation pop-up will appear. Please read the information carefully and con
 
 <img src="./img/delete-step-4.png" width="320px" heigth="600px" alt="Confirm" style="border: 1px solid;">
 
-Note that Deleting your profile will permanently remove **all your personal data**, including your:
+Note that deleting your profile will permanently remove **all your personal data**, including your:
 
 - **name**
 - **phone number**
