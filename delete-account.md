@@ -33,5 +33,3 @@ Note that deleting your profile will permanently remove **all your personal data
 - **email address**
 - **date of birth**
 - **added devices**
-
-Please note that we also collect some **diagnostic data** to improve our services. This data is not linked to your user profile and will be retained even if you delete your account.
