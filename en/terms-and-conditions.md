@@ -1,3 +1,10 @@
+---
+layout: default
+title: Terms & Conditions
+permalink: /en/terms-and-conditions/
+lang: en
+---
+
 <h1 style="text-align: center;">Terms & Conditions</h1>
 
 **Last updated December 27, 2023**
@@ -60,7 +67,7 @@ The Content and Marks are provided in or through the Services "AS IS" for your p
 Subject to your compliance with these Legal Terms, including the ["PROHIBITED ACTIVITIES"](#item-5) section below, we grant you a non-exclusive, non-transferable, revocable license to:
 
 - access the Services; and
-- download or print a copy of any portion of the Content to which you have properly gained access.  
+- download or print a copy of any portion of the Content to which you have properly gained access.
 
 solely for your personal, non-commercial use or internal business purpose.
 
@@ -83,7 +90,7 @@ Please review this section and the ["PROHIBITED ACTIVITIES"](#item-5) section ca
 - confirm that you have read and agree with our ["PROHIBITED ACTIVITIES"](#item-5) and will not post, send, publish, upload, or transmit through the Services any Submission that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
 - to the extent permissible by applicable law, waive any and all moral rights to any such Submission;
 - warrant that any such Submission are original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and
-- warrant and represent that your Submissions do not constitute confidential information.  
+- warrant and represent that your Submissions do not constitute confidential information.
 
 You are solely responsible for your Submissions and you expressly agree to reimburse us for any and all losses that we may suffer because of your breach of (a) this section, (b) any third party’s intellectual property rights, or (c) applicable law.
 
@@ -176,7 +183,7 @@ We care about data privacy and security. Please review our Privacy Policy: <http
 
 <h2 id="item-11">11. TERM AND TERMINATION</h2>
 
-These Legal Terms shall remain in full force and effect while you use the Services. WITHOUT LIMITING ANY OTHER PROVISION OF THESE LEGAL TERMS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SERVICES (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE LEGAL TERMS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SERVICES OR DELETE YOUR ACCOUNT AND  ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
+These Legal Terms shall remain in full force and effect while you use the Services. WITHOUT LIMITING ANY OTHER PROVISION OF THESE LEGAL TERMS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SERVICES (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE LEGAL TERMS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SERVICES OR DELETE YOUR ACCOUNT AND ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
 
 If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
 

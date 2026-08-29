@@ -1,0 +1,10 @@
+# English locale configuration
+lang: en
+description: Hypernyx - Smart IoT Platform
+
+# Header navigation links for English
+header_pages:
+  - en/index.md
+  - en/privacy-policy.md
+  - en/terms-and-conditions.md
+  - en/delete-account.md
