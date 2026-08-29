@@ -1,3 +1,10 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /en/privacy-policy/
+lang: en
+---
+
 <h1 style="text-align: center;">Privacy Policy</h1>
 
 **Last updated December 27, 2023**

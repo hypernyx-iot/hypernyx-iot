@@ -1,0 +1,40 @@
+# Site settings
+title: Hypernyx Blog
+description: Hypernyx Blog
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Sass settings to suppress deprecation warnings
+sass:
+  silence_deprecations:
+    - import
+    - color-functions
+    - global-builtin
+
+# Registered plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude these from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+  - _config.en.yml
+  - _config.fa.yml
+
+# Permalink style
+permalink: pretty
+
+# Header navigation includes the active language switch only
+header_pages:
+  - en/index.md
+  - fa/index.md

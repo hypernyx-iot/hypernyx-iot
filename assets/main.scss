@@ -1,0 +1,70 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+  border-top: 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.site-title {
+  font-size: 2.1rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.2;
+  color: #111;
+}
+
+.site-nav {
+  margin-left: auto;
+}
+
+.trigger {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.page-link {
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  color: #111;
+  font-size: 1rem;
+  line-height: 1.4;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.page-link:hover {
+  background: #f3f3f3;
+  text-decoration: none;
+}
+
+.page-link:first-child {
+  margin-left: 0;
+}
+
+html[lang="fa"] .site-header .wrapper {
+  direction: rtl;
+}
+
+html[lang="fa"] .site-nav {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+html[lang="fa"] .trigger {
+  direction: rtl;
+  gap: 0.3rem;
+}
+
+html[lang="fa"] .page-link {
+  color: #111;
+}

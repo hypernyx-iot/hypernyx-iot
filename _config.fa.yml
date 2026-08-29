@@ -1,0 +1,10 @@
+# Persian locale configuration
+lang: fa
+description: هایپرنیکس - پلتفرم هوشمند اینترنت اشیاء
+
+# Header navigation links for Persian
+header_pages:
+  - fa/index.md
+  - fa/privacy-policy.md
+  - fa/terms-and-conditions.md
+  - fa/delete-account.md
