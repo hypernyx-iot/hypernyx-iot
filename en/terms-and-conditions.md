@@ -179,7 +179,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 
 <h2 id="item-10">10. PRIVACY POLICY</h2>
 
-We care about data privacy and security. Please review our Privacy Policy: <http://blog.hypernyx.com/privacy-policy>. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms.
+We care about data privacy and security. Please review our Privacy Policy: <http://blog.hypernyx.cloud/en/privacy-policy>. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms.
 
 <h2 id="item-11">11. TERM AND TERMINATION</h2>
 

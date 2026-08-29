@@ -5,6 +5,6 @@ title: Home
 
 Pages:
 
-- [Privacy Policy](./privacy-policy)  
-- [Terms & Conditions](./terms-and-conditions)  
-- [Delete Account](./delete-account)  
+- [Privacy Policy](./en/privacy-policy)  
+- [Terms & Conditions](./en/terms-and-conditions)  
+- [Delete Account](./en/delete-account)  
