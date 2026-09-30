@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Delete Account
-permalink: /en/delete-account/
+permalink: /delete-account/
 lang: en
 ---
 
