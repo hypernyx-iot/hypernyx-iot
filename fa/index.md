@@ -15,5 +15,6 @@ dir: rtl
 - [حریم خصوصی](./privacy-policy)
 - [شرایط و ضوابط](./terms-and-conditions)
 - [حذف حساب](./delete-account)
+- [پشتیبانی](./support)
 
 </div>
