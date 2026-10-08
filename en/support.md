@@ -13,7 +13,7 @@ Need help with the **Hypernyx** app? We're here to help.
 
 For questions, technical issues, feedback, or any other request, email our support team:
 
-**<contact@hypernyx.com>**
+**<support@hypernyx.com>**
 
 To help us resolve your issue faster, please include:
 

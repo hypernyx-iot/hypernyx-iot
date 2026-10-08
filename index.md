@@ -5,7 +5,7 @@ title: Home
 
 # Hypernyx Support
 
-Need help with the **Hypernyx** app? Email our support team at **<contact@hypernyx.com>** with your question or issue. Please include your device model, OS version, and app version so we can help faster.
+Need help with the **Hypernyx** app? Email our support team at **<support@hypernyx.com>** with your question or issue. Please include your device model, OS version, and app version so we can help faster.
 
 For privacy-related questions, write to <privacy@hypernyx.com>.
 

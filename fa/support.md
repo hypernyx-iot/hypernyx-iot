@@ -18,7 +18,7 @@ dir: rtl
 
 <div dir="ltr" markdown="1">
 
-**<contact@hypernyx.com>**
+**<support@hypernyx.com>**
 
 </div>
 
